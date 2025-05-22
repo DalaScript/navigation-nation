@@ -15,6 +15,7 @@ A modern and interactive animated navigation menu built with vanilla JavaScript 
 - [🧠 My process](#-my-process)
   - [🛠️ Built with](#️-built-with)
   - [🎓 What I learned](#-what-i-learned)
+  - [🔙 Previous Project](#-previous-project)
   - [🔜 Next Project](#-next-project)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
@@ -26,7 +27,7 @@ A modern and interactive animated navigation menu built with vanilla JavaScript 
 
 ### 📸 Screenshot
 
-![screenshot of webpage](./assets/screenshot.jpg)
+![screenshot of the project's webpage](./assets/screenshot.jpg)
 
 ### 🔗 Links
 
@@ -38,8 +39,9 @@ A modern and interactive animated navigation menu built with vanilla JavaScript 
  - ✅ Hamburger menu with animated bar transitions
  - ✅ Full-screen overlay navigation
  - ✅ Smooth sliding animations for nav items
- - ✅ Responsive and mobile-friendly layout
  - ✅ Auto-close navigation on item click
+
+---
 
 ## 🧠 My Process
 
@@ -56,9 +58,21 @@ A modern and interactive animated navigation menu built with vanilla JavaScript 
  - Improving UX by automatically closing nav on selection
  - Better understanding of DOM manipulation and event handling
 
+  > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
+  > rather than learning something entirely new.  
+  >  
+  > 👨‍💻 Since I’m not a beginner and already familiar with these technologies,  
+  > I approached it with confidence — and still, I truly **enjoyed working on it**.  
+  >  
+  > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
+
+### 🔙 Previous Project
+
+ - Animated Template *[Project 6/20]* → [View Repository](https://github.com/DalaScript/animated-template)
+
 ### 🔜 Next Project
 
- - Music Player → [View Repository](https://github.com/DalaScript/music-player)
+ - Music Player *[Project 8/20]* → [View Repository](https://github.com/DalaScript/music-player)
 
 ---
 
