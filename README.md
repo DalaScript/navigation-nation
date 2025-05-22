@@ -68,11 +68,11 @@ A modern and interactive animated navigation menu built with vanilla JavaScript 
 
 ### 🔙 Previous Project
 
- - Animated Template *[Project 6/20]* → [View Repository](https://github.com/DalaScript/animated-template)
+ - Animated Template | *[Project 6/20]* → [View Repository](https://github.com/DalaScript/animated-template)
 
 ### 🔜 Next Project
 
- - Music Player *[Project 8/20]* → [View Repository](https://github.com/DalaScript/music-player)
+ - Music Player | *[Project 8/20]* → [View Repository](https://github.com/DalaScript/music-player)
 
 ---
 
