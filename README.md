@@ -1,6 +1,6 @@
 # Navigation Nation | ZTM JS Web Projects Course
 
-**7/20**
+**Project 7/20**
 
 A modern and interactive animated navigation menu built with vanilla JavaScript and CSS. This project showcases a sleek overlay effect with smooth slide-in/out transitions that elevate user interaction and design experience.
 
@@ -17,6 +17,7 @@ A modern and interactive animated navigation menu built with vanilla JavaScript 
   - [🎓 What I learned](#-what-i-learned)
   - [🔙 Previous Project](#-previous-project)
   - [🔜 Next Project](#-next-project)
+  - [🗃️ Useful resources](#️-useful-resources)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
   - [💻 Coding Profiles](#-coding-profiles)
@@ -27,7 +28,7 @@ A modern and interactive animated navigation menu built with vanilla JavaScript 
 
 ### 📸 Screenshot
 
-![screenshot of the project's webpage](./assets/screenshot.jpg)
+![Live Preview Screenshot](./assets/screenshot.jpg)
 
 ### 🔗 Links
 
@@ -73,6 +74,15 @@ A modern and interactive animated navigation menu built with vanilla JavaScript 
 ### 🔜 Next Project
 
  - Music Player | *[Project 8/20]* → [View Repository](https://github.com/DalaScript/music-player)
+
+### 🗃️ Useful resources
+
+ - [Google Fonts](https://fonts.google.com/) – Web-safe font library to style your UI.
+ - [Unsplash Images](https://unsplash.com/) – High-quality, free stock images.
+ - [Color Selection Tool](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) – Interactive color palette generator for accessible color schemes.
+ - [W3Schools - Menu Icon](https://www.w3schools.com/howto/howto_css_menu_icon.asp) – Tutorial for creating responsive hamburger menus.
+ - [MDN - CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_cascading_variables/Using_CSS_custom_properties) – How to create and manage reusable CSS values.
+ - [MDN - CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/animation) – Reference guide for keyframes, timing, and animation properties.
 
 ---
 
